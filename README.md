@@ -25,10 +25,6 @@
 
 <!-- Github Statistics Cards -->
 
-
-  ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=darkets&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@darkets-Github-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkets&theme=react&custom_title=Most-Used-Languages)](https://github.com/darkets/github-readme-stats) 
 
 
@@ -36,11 +32,3 @@
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)       ![](https://img.shields.io/badge/Language-Lua-informational?style=flat&logo=lua&logoColor=white&color=blue)    
 <!-- ![](https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue) -->
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkets&theme=tokyonight&hide_border=true&ring=1EE2BF&fire=E25525)](https://git.io/streak-stats)
-
-[![darkets github activity graph](https://activity-graph.herokuapp.com/graph?username=darkets&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-Hello, again!
