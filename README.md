@@ -1,5 +1,5 @@
 <h3>
-    Hi, there! I'm Roberts Bauers
+    Hi, there! I'm Roberts
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h3>
 
