@@ -9,7 +9,6 @@
 
 ### 📖 Contact me:
 - Email: rrbauerss@gmail.com
-- LinkedIn: https://www.linkedin.com/in/robertsbauers
 
 ### ⚡Technologies:
 > Tools, languages, and other things that I work with.
